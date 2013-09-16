@@ -108,7 +108,7 @@
 }
 
 - (IBAction)clearCache {
-	[[EGOCache currentCache] clearCache];
+	[[EGOCache globalCache] clearCache];
 	[self.tableView reloadData];
 }
 
@@ -151,7 +151,7 @@
     
     ExampleCell *cell = (ExampleCell*)[tableView dequeueReusableCellWithIdentifier:CellIdentifier];
     if (cell == nil) {
-        cell = [[[ExampleCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:CellIdentifier] autorelease];
+        cell = [[ExampleCell alloc] initWithStyle:UITableViewCellStyleDefault reuseIdentifier:CellIdentifier];
     }
     
 	// Configure the cell.
@@ -160,10 +160,6 @@
     return cell;
 }
 
-- (void)dealloc {
-	[flickrPhotos release];
-    [super dealloc];
-}
 
 
 @end

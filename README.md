@@ -3,6 +3,9 @@ EGOImageLoading
 
 What if images on the iPhone were as easy as HTML?
 ===============
-1.ARC support
-2.Iphone 5.
-3.EGOCache2.0
+1.ARC support;
+2.Iphone 5.;
+3.EGOCache2.0;
+
+If this code is helpful for you , please buy a cup of cafe to me :).
+https://me.alipay.com/winglewong

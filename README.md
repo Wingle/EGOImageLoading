@@ -9,6 +9,6 @@ What if images on the iPhone were as easy as HTML?
 
 3.EGOCache2.0;
 
-If this code is helpful for you , please buy a cup of cafe to me :).
+If this code is helpful for you , please buy me a coffee :).
 
 Click here : https://me.alipay.com/winglewong

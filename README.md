@@ -11,4 +11,4 @@ What if images on the iPhone were as easy as HTML?
 
 If this code is helpful for you , please buy a cup of cafe to me :).
 
-Cick here : https://me.alipay.com/winglewong
+Click here : https://me.alipay.com/winglewong
